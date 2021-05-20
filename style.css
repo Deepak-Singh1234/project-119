@@ -1,0 +1,16 @@
+body{
+    background-image: url(background.jpg);
+}
+.gghhttyy{
+float:center;
+margin-left: 400px;
+border-radius: 2%;
+box-shadow: 2px 2px 15px black;
+}
+
+canvas{
+    box-sizing: 12px 12px 12px black;
+    border-radius: 1%;
+    bottom: 100%;
+
+}
